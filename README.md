@@ -1,11 +1,11 @@
 # Human Co-Parsing Guided Alignment for Occluded Person Re-identification  (IEEE T-IP 2022)
 This is the Pytorch implementation of the [paper](). More information about the paper is in [here]().
 <div align="center">
-   <img src="figures/label-num=32_id=0001_cw=2_sw=1.gif" height=300/><img src="figures\label-num=32_id=6_cw=1_tw=0.gif" height=300/>
+   <img src="figures/label-num=32_id=0001_cw=2_sw=1.gif" height=100/><img src="figures\label-num=32_id=6_cw=1_tw=0.gif" height=100/>
 </div>
 
 <div align="center">
-   <img src="figures/label-num=32_id=0001_cw=2_sw=1.png" height=300/><img src="figures\label-num=32_id=6_cw=1_tw=0.png" height=300/>
+   <img src="figures/label-num=32_id=0001_cw=2_sw=1.png" height=100/><img src="figures\label-num=32_id=6_cw=1_tw=0.png" height=100/>
 </div>
 
 
