@@ -63,3 +63,5 @@ If you find this technique and repository useful, please cite the paper. Thanks!
   type = {Journal Article}
 }
 ```
+## Acknowledgement
+We build our project based on (ISP-reID)[https://github.com/CASIA-IVA-Lab/ISP-reID].
