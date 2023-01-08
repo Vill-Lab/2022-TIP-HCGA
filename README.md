@@ -42,8 +42,13 @@ pip install -r requirements.txt
 ```bash
 bash HCGA-OD.sh
 ```
+Note: use GPU multi-process need large memory and GPU Memory (We use RTX 3090 with 24GB).
 
 4) Test
+
+```bash
+bash Test-OD.sh
+```
 
 ## Experiment results
 
