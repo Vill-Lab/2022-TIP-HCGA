@@ -1,5 +1,5 @@
 # Human Co-Parsing Guided Alignment for Occluded Person Re-identification  (IEEE T-IP 2022)
-This is the Pytorch implementation of the [paper](). More information about the paper is in [here](https://shuguang-52.github.io/hcga/).
+This is the Pytorch implementation of the [paper](). More information about the paper is in [here]().
 <div align="center">
    <img src="figures/label-num=32_id=0001_cw=2_sw=1.gif" height=100/><img src="figures\label-num=32_id=6_cw=1_tw=0.gif" height=100/>
 </div>
@@ -7,7 +7,6 @@ This is the Pytorch implementation of the [paper](). More information about the 
 <div align="center">
    <img src="figures/label-num=32_id=0001_cw=2_sw=1.png" height=100/><img src="figures\label-num=32_id=6_cw=1_tw=0.png" height=100/>
 </div>
-
 
 We propose a novel Human Co-parsing Guided Alignment (HCGA) framework that alternately trains the **human co-parsing** network and the ReID network, where the human co-paring network is trained in a *weakly supervised manner* to obtain paring results without any extra annotation.
 
@@ -55,7 +54,7 @@ We hope that this technique will benefit more computer vision related applicatio
 If you find this technique and repository useful, please cite the paper. Thanks!
 
 ```
-@article{hcga22tip,
+@article{zhu2020identity,
   title={Human Co-Parsing Guided Alignment for Occluded Person Re-identification},
   author={Dou, Shuguang and Zhao, Cairong and Xinyang, Jiang and Shanshan, Zhang and Wei-Shi, Zheng and Wangmeng, Zuo},
   journal = {IEEE Transactions on Image Processing},
@@ -63,5 +62,4 @@ If you find this technique and repository useful, please cite the paper. Thanks!
   type = {Journal Article}
 }
 ```
-## Acknowledgement
-We build our project based on [ISP-reID](https://github.com/CASIA-IVA-Lab/ISP-reID).
+
