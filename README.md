@@ -50,16 +50,13 @@ Note: use GPU multi-process need large memory and GPU Memory (We use RTX 3090 wi
 bash Test-OD.sh
 ```
 
-## Experiment results
-
-
 
 ## Reference
 We hope that this technique will benefit more computer vision related applications and inspire more works.
 If you find this technique and repository useful, please cite the paper. Thanks!
 
 ```
-@article{zhu2020identity,
+@article{hcga22tip,
   title={Human Co-Parsing Guided Alignment for Occluded Person Re-identification},
   author={Dou, Shuguang and Zhao, Cairong and Xinyang, Jiang and Shanshan, Zhang and Wei-Shi, Zheng and Wangmeng, Zuo},
   journal = {IEEE Transactions on Image Processing},
