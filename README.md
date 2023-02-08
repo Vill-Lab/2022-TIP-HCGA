@@ -1,5 +1,5 @@
 # Human Co-Parsing Guided Alignment for Occluded Person Re-identification  (IEEE T-IP 2022)
-This is the Pytorch implementation of the [paper](). More information about the paper is in [here]().
+This is the Pytorch implementation of the [paper](https://ieeexplore.ieee.org/abstract/document/9994734). More information about the paper is in [here](https://shuguang-52.github.io/hcga/).
 <div align="center">
    <img src="figures/label-num=32_id=0001_cw=2_sw=1.gif" height=100/><img src="figures\label-num=32_id=6_cw=1_tw=0.gif" height=100/>
 </div>
