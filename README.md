@@ -1,4 +1,4 @@
-# Human Co-Parsing Guided Alignment for Occluded Person Re-identification  (IEEE T-IP 2022)
+# Human Co-Parsing Guided Alignment for Occluded Person Re-identification  (IEEE T-IP 2023)
 This is the Pytorch implementation of the [paper](https://ieeexplore.ieee.org/abstract/document/9994734). More information about the paper is in [here](https://shuguang-52.github.io/hcga/).
 <div align="center">
    <img src="figures/label-num=32_id=0001_cw=2_sw=1.gif" height=100/><img src="figures\label-num=32_id=6_cw=1_tw=0.gif" height=100/>
@@ -56,12 +56,13 @@ We hope that this technique will benefit more computer vision related applicatio
 If you find this technique and repository useful, please cite the paper. Thanks!
 
 ```
-@article{hcga22tip,
-  title={Human Co-Parsing Guided Alignment for Occluded Person Re-identification},
-  author={Dou, Shuguang and Zhao, Cairong and Xinyang, Jiang and Shanshan, Zhang and Wei-Shi, Zheng and Wangmeng, Zuo},
-  journal = {IEEE Transactions on Image Processing},
-  year={2022}
-  type = {Journal Article}
-}
+@article{hcga23tip,
+  author={Dou, Shuguang and Zhao, Cairong and Jiang, Xinyang and Zhang, Shanshan and Zheng, Wei-Shi and Zuo, Wangmeng},
+  journal={IEEE Transactions on Image Processing}, 
+  title={Human Co-Parsing Guided Alignment for Occluded Person Re-Identification}, 
+  year={2023},
+  volume={32},
+  pages={458-470},
+  doi={10.1109/TIP.2022.3229639}}
 ```
 
