@@ -1,3 +1,5 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/human-co-parsing-guided-alignment-for/person-re-identification-on-occluded-dukemtmc)](https://paperswithcode.com/sota/person-re-identification-on-occluded-dukemtmc?p=human-co-parsing-guided-alignment-for)
+
 # Human Co-Parsing Guided Alignment for Occluded Person Re-identification  (IEEE T-IP 2023)
 This is the Pytorch implementation of the [paper](https://ieeexplore.ieee.org/abstract/document/9994734). More information about the paper is in [here](https://shuguang-52.github.io/hcga/).
 <div align="center">
